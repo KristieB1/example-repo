@@ -1,3 +1,3 @@
 example repository
  
-how to use GIT 
+how to use GIT. learning how to branch
